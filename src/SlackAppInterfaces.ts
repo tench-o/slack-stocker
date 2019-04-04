@@ -1,0 +1,3 @@
+class SlackApp{
+    create: any;
+}
